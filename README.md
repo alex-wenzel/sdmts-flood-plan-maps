@@ -2,6 +2,8 @@
 
 This repository is an index of [MetroDreamin](https://metrodreamin.com) maps of the San Diego Metropolitan Transit System (MTS)'s flood plans. Currently, this only contains flood plans for road closures adjacent to Fashion Valley Transit Center, but more maps will be added as time allows. The maps are based on turn-by-turn instructions hosted on [ATU Local 1309's website](https://atulocal1309hub.files.wordpress.com/2020/02/skm_c3851fs20022607370.pdf). 
 
+*For improved legibility on the interactive maps, scroll down and toggle "Waypoints hidden".*
+
 ## Flood plans
 
 ### Plan 1
