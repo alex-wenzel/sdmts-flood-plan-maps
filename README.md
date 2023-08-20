@@ -10,7 +10,7 @@ Fashion Valley Rd open, Avenida Del Rio closed.
 
 **[Interactive Map](https://metrodreamin.com/view/QVV3Y1hzY0tCSlZGZEVtSFBQbGg0VTliaFQwMnwy)**
 
-![./plan_map_screenshots/plan1.png]
+![plan_map_screenshots/plan1.png]
 
 ### Plan 1B
 
@@ -18,7 +18,7 @@ Fashion Valley Rd open, Avenida Del Rio closed, Camino De La Reina SR-163 underp
 
 **[Interactive Map](https://metrodreamin.com/view/QVV3Y1hzY0tCSlZGZEVtSFBQbGg0VTliaFQwMnwz)**
 
-![./plan_map_screenshots/plan1B.png]
+![plan_map_screenshots/plan1B.png]
 
 ### Plan 2
 
@@ -26,7 +26,7 @@ Fashion Valley Rd closed, Avenida Del Rio closed, Fashion Valley Transit Center 
 
 **[Interactive Map](https://metrodreamin.com/view/QVV3Y1hzY0tCSlZGZEVtSFBQbGg0VTliaFQwMnw0)**
 
-![./plan_map_screenshots/plan2.png]
+![plan_map_screenshots/plan2.png]
 
 ### Plan 3
 
@@ -34,7 +34,7 @@ Fashion Valley Transit Center closed. A temporary transit center is established 
 
 **[Interactive Map](https://metrodreamin.com/view/QVV3Y1hzY0tCSlZGZEVtSFBQbGg0VTliaFQwMnw1)**
 
-![./plan_map_screenshots/plan3.png]
+![plan_map_screenshots/plan3.png]
 
 ## Contributions
 
